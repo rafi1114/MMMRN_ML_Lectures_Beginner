@@ -10,6 +10,22 @@ To make the learning process engaging and relatable, we utilize sports data from
 
 Feel free to explore the repository, follow along with the tutorials, and enhance your understanding of machine learning and deep learning through these fun and interactive examples.
 
+## Contributing
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any questions or inquiries, please contact me via mrafi.rafi0@gmail.com
+
 
 
 
