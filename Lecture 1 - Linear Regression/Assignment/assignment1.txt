@@ -1,0 +1,5 @@
+# Assignment 1 : Linear Regression with Single Variable
+
+Use the dataset Assgn1.csv
+Train and test a linear regression model to predict the total number of wickets taken in a bowler's ODI career based on the number of innings he played. 
+After you are done with that, Find the intercept and the coefficient of the model.
