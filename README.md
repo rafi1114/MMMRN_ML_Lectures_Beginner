@@ -1,4 +1,4 @@
-# Welcome to the MMMRN Machine Learning and Deep Learning Repository
+# Welcome to the MMMRN Machine Learning and Deep Learning Tutorial Repository by Rafi Bin Dastagir
 
 This repository is dedicated to providing beginner-level tutorials on implementing machine learning and deep learning using Python. As the machine learning mentor for the Multiscale Mechanical Modelling and Research Network (MMMRN), I have created these resources to assist university batchmates, juniors, and mentees in their learning journey.
 
