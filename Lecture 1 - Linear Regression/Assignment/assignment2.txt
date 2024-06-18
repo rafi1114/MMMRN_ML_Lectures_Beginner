@@ -1,0 +1,10 @@
+# Assignment 2 - Linear Regression with Multiple Variables
+
+Use dataset Assgn2.csv for this task.
+
+Train and test a linear regression model to predict the total number of wickets 
+taken in a bowler's test career based on stats (The attached dataset contains
+data up to 2019) like matches played, innings bowled in, balls bowled, average, 
+SR (Strike Rate), Economy, 5 wicket hauls and 10 wicket hauls. After you are done 
+with that, predict the total number of wickets taken by Pat Cummins in test cricket 
+up to 2024.
